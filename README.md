@@ -1,5 +1,4 @@
-# -ip-flajts
- -ip-flajts
+ čip-flajts
 Podjetje za nakup letalskih kart
 
 čip-flajts je spletna aplikacija, ki omogoča preprosto iskanje, primerjavo in nakup letalskih kart. Namenjena je uporabnikom, ki želijo hitro najti najugodnejši let iz najbližjega letališča – brez zapletenih postopkov ali preveč informacij naenkrat.
